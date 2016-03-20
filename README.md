@@ -4,4 +4,4 @@ Site in progress for Cat's Cradle Antiques. This is the custom theme for the sit
 
 To be added:
 - Categories on the Catalog page
-- Refinement of the cron job that checks for new photos
+- Refinement of the cron job that checks for new photos (using wp-crontrol)
